@@ -52,11 +52,7 @@ body {
 	transform: skew(8deg) rotate(3deg);
 }
 
-#smallResult {
-	position: absolute;
-	top: 3px;
-	right: 10px;
-}
+
 
 #result {
 	width: 100%;
